@@ -19,8 +19,10 @@ body {
   padding: 2rem;
 }
 
-.logo {
-  max-width: 200px;
+.site-logo {
+  width: 400px;
+  max-width: 80%;
+  height: auto;
   margin-bottom: 1.5rem;
 }
 
