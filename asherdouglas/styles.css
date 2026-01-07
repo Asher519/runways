@@ -20,7 +20,8 @@ body {
 }
 
 .site-logo {
-  width: 400px;
+  border: 1px solid currentColor;
+  width: 300px;
   max-width: 80%;
   height: auto;
   margin-bottom: 1.5rem;
