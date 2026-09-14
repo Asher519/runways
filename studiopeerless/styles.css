@@ -20,7 +20,7 @@ body {
 }
 
 .logo {
-  width: clamp(200px, 35vw, 333px);
+  width: clamp(240px, 45vw, 420px);
   max-width: 100%;
   height: auto;
   display: block;
