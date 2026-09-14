@@ -20,8 +20,12 @@ body {
 }
 
 .logo {
-  max-width: 200px;
-  margin-bottom: 1.5rem;
+  width: clamp(200px, 35vw, 333px);
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto 1.5rem auto;
+  border: 3px solid currentColor;
 }
 
 h1 {
